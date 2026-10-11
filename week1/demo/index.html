@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Site</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="navbar">
+    <p class="logo">My Site</p>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <img src="self-portrait.png" alt="Blank self portrait">
+      <div class="intro-text">
+        <h1>Hi, I'm Sameer</h1>
+        <p id="greeting">I build small pages with HTML, CSS, and JavaScript.</p>
+        <p class="tags">
+          <span class="tag">HTML</span>
+          <span class="tag">CSS</span>
+          <span class="tag">Flexbox</span>
+          <span class="tag skill">JavaScript</span>
+        </p>
+      </div>
+    </section>
+
+    <section class="card" id="about">
+      <h2>A few favorites</h2>
+      <ul>
+        <li class="skill">YGF Malatang</li>
+        <li class="skill">Aladdin's</li>
+        <li class="skill">Late night Odegaard</li>
+      </ul>
+
+      <h3>How this page goes together</h3>
+      <ol id="plan"></ol>
+    </section>
+
+    <section class="card">
+      <h2>Say hello</h2>
+      <p>Type a name, then press the button. JavaScript updates the page.</p>
+      <div class="actions">
+        <input id="name-input" type="text" placeholder="Your name">
+        <button type="button" onclick="greet()">Say hello</button>
+      </div>
+      <p id="message"></p>
+      <ul id="facts"></ul>
+    </section>
+  </main>
+</body>
+</html>
