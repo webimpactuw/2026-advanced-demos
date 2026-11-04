@@ -1,0 +1,6 @@
+{"_id":"product-husky-mug","_type":"product","name":"Husky Mug","slug":{"_type":"slug","current":"husky-mug"},"price":14,"description":"Holds coffee. Holds tea. Holds your hopes before a midterm.","inStock":true}
+{"_id":"product-club-hoodie","_type":"product","name":"Club Hoodie","slug":{"_type":"slug","current":"club-hoodie"},"price":42,"description":"Cozy, purple, and very warm in Suzzallo.","inStock":true}
+{"_id":"product-sticker-pack","_type":"product","name":"Sticker Pack","slug":{"_type":"slug","current":"sticker-pack"},"price":5,"description":"Ten stickers for your laptop. You know you need more.","inStock":true}
+{"_id":"product-tote-bag","_type":"product","name":"Tote Bag","slug":{"_type":"slug","current":"tote-bag"},"price":18,"description":"Carries groceries, books, and emotional baggage.","inStock":true}
+{"_id":"product-water-bottle","_type":"product","name":"Water Bottle","slug":{"_type":"slug","current":"water-bottle"},"price":22,"description":"Stay hydrated while your code compiles.","inStock":true}
+{"_id":"product-beanie","_type":"product","name":"Beanie","slug":{"_type":"slug","current":"beanie"},"price":16,"description":"For the rainy walk to class. So, every walk to class.","inStock":false}

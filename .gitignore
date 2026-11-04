@@ -1,2 +1,5 @@
 .env
 .DS_Store
+
+# finished week 4 demo (hidden until after the workshop)
+week4/demo/
