@@ -1,5 +1,5 @@
 {
-  "name": "shop",
+  "name": "bug-band",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@sanity/vision": "^6.22.0",
-    "next": "16.4.3",
-    "next-sanity": "^13.4.0",
+    "next": "16.4.2",
     "react": "19.3.0",
-    "react-dom": "19.3.0",
-    "sanity": "^6.22.0",
-    "styled-components": "^6.1.19"
+    "react-dom": "19.3.0"
   },
   "devDependencies": {
     "eslint": "^9",
-    "eslint-config-next": "16.4.3"
+    "eslint-config-next": "16.4.2"
   }
 }

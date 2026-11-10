@@ -1,8 +1,6 @@
-import "./globals.css";
-
 export const metadata = {
-  title: "The Bug Band",
-  description: "Tonight only.",
+  title: "Shop",
+  description: "A super simple shop powered by Sanity.",
 };
 
 export default function RootLayout({ children }) {
